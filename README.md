@@ -10,6 +10,7 @@ Participants engaged in a game consisting of five levels:
 
 ### Facial Landmark Analysis
 We extracted eye and eyebrow features from 478 facial landmarks to study their changes during decision-making.
+![image.png](attachment:image.png)
 
 ## Objectives
 
@@ -28,7 +29,7 @@ To replicate our analysis, follow these steps:
 
 1. Clone the repository:
     bash
-    git clone https://github.com/soroor-ag/decision-making-analysis-game.git
+    git clone https://github.com/soroor-ag/Game_Decision-Making_Analysis
     
 2. Navigate to the project directory:
     ```bash
