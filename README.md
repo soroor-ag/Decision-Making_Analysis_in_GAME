@@ -6,12 +6,13 @@ This project explores the impact of cognitive biases on decision-making within a
 
 Participants engaged in a game consisting of five levels:
 - **Levels 1-3:** No biases introduced; purely focused on gameplay.
-- **Levels 4-5:** Participants were subjected to anchoring bias and overconfidence bias.
+- **Levels 4-5:** Participants were subjected to anchoring bias and overconfidence bias and Loss Aversion influe.
 
 ### Facial Landmark Analysis
 We extracted eye and eyebrow features from 478 facial landmarks to study their changes during decision-making.
 ![image](https://github.com/user-attachments/assets/71ac46c2-5f92-491c-b452-29266f935b1d)
-![image](https://github.com/user-attachments/assets/da09d6a0-3bf7-4235-a355-1c1a5bc0777b)
+![image](https://github.com/user-attachments/assets/b1d0fc76-23fe-4035-bead-cbf2a6fd5b74)
+
 
 
 ## Objectives
@@ -25,6 +26,7 @@ We extracted eye and eyebrow features from 478 facial landmarks to study their c
 
 - **Eye Feature Changes:** Significant changes in eye features during decision-making.
 - **Bias Impact:** Cognitive biases like Loss Aversion influence decision-making processes.
+- target is 0 for safe decisions and 1 for risky decisions and 2 for no decision you can see important features here
 ![image](https://github.com/user-attachments/assets/f6b5b2b4-1b66-45f1-a34d-c648ef07a664)
 
 ## Usage
