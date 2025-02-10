@@ -10,18 +10,22 @@ Participants engaged in a game consisting of five levels:
 
 ### Facial Landmark Analysis
 We extracted eye and eyebrow features from 478 facial landmarks to study their changes during decision-making.
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/71ac46c2-5f92-491c-b452-29266f935b1d)
+![image](https://github.com/user-attachments/assets/da09d6a0-3bf7-4235-a355-1c1a5bc0777b)
+
 
 ## Objectives
 
 1. **Classification and Prediction:** Determine if we can classify and predict individuals who make risky decisions based on facial features.
 2. **Feature Analysis:** Identify common features that change during risky and safe decision-making.
 3. **Bias Effects:** Examine how cognitive biases, such as Loss Aversion bias, affect decision-making.
+![image](https://github.com/user-attachments/assets/8c68494f-b60a-41f9-a772-36598a120dd6)
 
 ## Key Findings
 
 - **Eye Feature Changes:** Significant changes in eye features during decision-making.
 - **Bias Impact:** Cognitive biases like Loss Aversion influence decision-making processes.
+![image](https://github.com/user-attachments/assets/f6b5b2b4-1b66-45f1-a34d-c648ef07a664)
 
 ## Usage
 
