@@ -26,7 +26,8 @@ We extracted eye and eyebrow features from 478 facial landmarks to study their c
 
 - **Eye Feature Changes:** Significant changes in eye features during decision-making.
 - **Bias Impact:** Cognitive biases like Loss Aversion influence decision-making processes.
-- target is 0 for safe decisions and 1 for risky decisions and 2 for no decision you can see important features here
+- target 0 for safe decisions and 1 for risky decisions and 2 for no decision
+- you can see important features here:
 ![image](https://github.com/user-attachments/assets/f6b5b2b4-1b66-45f1-a34d-c648ef07a664)
 
 ## Usage
