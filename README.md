@@ -28,7 +28,11 @@ We extracted eye and eyebrow features from 478 facial landmarks to study their c
 - **Bias Impact:** Cognitive biases like Loss Aversion influence decision-making processes.
 - target 0 for safe decisions and 1 for risky decisions and 2 for no decision
 - you can see important features here:
-![image](https://github.com/user-attachments/assets/f6b5b2b4-1b66-45f1-a34d-c648ef07a664)
+- ![image](https://github.com/user-attachments/assets/3574cb8f-e7cf-463d-ab5f-5e2ea754c1ed)
+- ![image](https://github.com/user-attachments/assets/d993ce87-b6f8-4f44-9ca7-546a646501d9)
+In level 2, when the game expands from 2 options to 4, individuals tend to make riskier decisions. This increase in choices creates a false sense of control and confidence, leading players to believe they can better analyze and choose the best option. However, this often results in cognitive fatigue and quicker, more intuitive decisions, which are typically riskier. The fear of missing out on potential opportunities and the allure of higher rewards from risky options further drive players to take more risks when more choices are available. Consequently, individuals are more inclined to accept higher risks, even if these decisions don't always lead to desirable outcomes.
+
+
 
 ## Usage
 
