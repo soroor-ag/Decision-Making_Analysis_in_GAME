@@ -20,7 +20,7 @@ We extracted eye and eyebrow features from 478 facial landmarks to study their c
 1. **Classification and Prediction:** Determine if we can classify and predict individuals who make risky decisions based on facial features.
 2. **Feature Analysis:** Identify common features that change during risky and safe decision-making.
 3. **Bias Effects:** Examine how cognitive biases, such as Loss Aversion bias, affect decision-making.
-![image](https://github.com/user-attachments/assets/8c68494f-b60a-41f9-a772-36598a120dd6)
+
 
 ## Key Findings
 
